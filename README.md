@@ -8,3 +8,7 @@ Nele comparamos:
 1) Metodologia Tradicional: Árvore de Decisão e Regressão Linear
 
 2) Auto-ML: Utilizada a ferramenta Auto-ScikitLearn
+
+Aqui é disponibilizado o artigo completo datado de 04/03/2024, bem como o código completo usado no seu desenvolvimento. 
+
+
